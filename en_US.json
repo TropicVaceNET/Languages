@@ -1,0 +1,54 @@
+{
+	"PREFIX": "§d§lAsio§b§lPE §8» §r§7",
+	"localeCode": "en_US",
+	"name": "English",
+
+	"values": {
+		"languageapi.reloaded": "§r§aThe §eLanguageAPI §awas successfully reloaded§7!",
+		"languageapi.ui.title.select": "§eSelect your Language",
+		"languageapi.ui.text.select": "§eSelect your Language§7!",
+		"languageapi.updated": "{PREFIX}§7You have updated your language successfully§7!",
+		
+		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
+		"lobbysystem.join.welcome": "{PREFIX}§7Welcome back to the §d{NAME}",
+		"lobbysystem.serversettings.response": "{PREFIX}&7You changed the Settings §d{SETTINGS}",
+		"lobbysystem.settings.ui.win10.changed": "{PREFIX}§7Your UIs will be §dDisplayed §7as §bWindows10 §fForms",
+		"lobbysystem.settings.ui.mobile.changed": "{PREFIX}§7Your UIs will be §dDisplayed §7as §bMobile §fForms",
+		"lobbysystem.navigator.disabled": "§cDisabled",
+		"lobbysystem.navigator.enabled": "§aEnabled",
+		"lobbysystem.navigator.online.maintenance": "§7Server is §aOnline§7 but in §cMaintenance §7Mode§7.!",
+		"lobbysystem.navigator.offline": "{PREFIX}§7Server is §cOffline",
+		"lobbysystem.navigator.online": "{PREFIX}§7Server is §aOnline§7!.",
+
+		"lobbysystem.settings.uimain.title": "§d§lSettings§r §8| §b§lMain",
+		"lobbysystem.settings.uimain.content": "§fManage your Player Account",
+		"lobbysystem.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
+		"lobbysystem.settings.uimain.langbtn": "§b§lLanguage §r§8| §f§lSettings",
+
+		"lobby.dsgvoui.title": "§aData Protection",
+		"lobby.dsgvoui.content": "§r\n§7Click §aAccept§7 ok?",
+		"lobby.dsgvoui.acceptbtn": "§aAccept",
+		"lobby.dsgvoui.declinebtn": "§cDecline\n§7if you click this you get kicked",
+
+		"lobby.dsgvoui.accepted": "{PREFIX}§7Well§8, §7your Account has been registered to the Database",
+		"lobby.dsgvoui.kick": "§8\n{PREFIX}§cPlease Click on §aAccept§r!\n§5",
+
+		"lobby.items.compass.name": "§c§lTeleporter",
+		"lobby.items.clock.name": "§d§lGadgets",
+		"lobby.items.amethyst_shard.name": "§b§lSettings",
+		
+
+		"lobby.maintenance.staffonline": "§cServer is now only for the Staff online",
+		"lobby.maintenance.online": "§7Server is now Online for all players",
+		
+		"skyblock.home.set": "{PREFIX}§7You has set your §bHome §7called §d{HOME}§7...",
+		"skyblock.taskbar.notify": "{PREFIX}§7Name§8: §e{NAME} §8- §7Money§8: §e{MONEY} §8- §7Position§8: §e{POS} §8- §7World§8: §e{WORLD}",
+		"skyblock.helpui.title": "{PREFIX}§fHelp UI",
+		"skyblock.helpui.desc": "\n§cCooming very soon",
+		"skyblock.helpui.btn.ok": "§aOkay",
+		"skyblock.spawnholo.title": "§l§aWelcome to the Server!",
+		"skyblock.spawnholo.desc": "§7Have Fun §e{PLAYER}\n§a{TIME}",
+		"skyblock.ping.ms": "{PREFIX}&7Your Ping is §d{PING}§bms",
+		"skyblock.set.day": "{PREFIX}§7You set the Time to §dDay§r"
+	}
+}
