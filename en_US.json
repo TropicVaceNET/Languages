@@ -8,6 +8,7 @@
 		"languageapi.ui.title.select": "§eSelect your Language",
 		"languageapi.ui.text.select": "§eSelect your Language§7!",
 		"languageapi.updated": "{PREFIX}§7You have updated your language successfully§7!",
+    	"languageapi.debug": "{PREFIX}§c§lThis is a DEBUG Message!",
 		
 		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
 		"lobbysystem.join.welcome": "{PREFIX}§7Welcome back to the §d{NAME}",
