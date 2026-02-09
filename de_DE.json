@@ -1,0 +1,63 @@
+{
+	"PREFIX": "§d§lAsio§b§lPE §8» §r§7",
+	"localeCode": "de_DE",
+	"name": "Deutsch",
+
+	"values": {
+		"languageapi.reloaded": "§r§aThe §eLanguageAPI §awas successfully reloaded§7!",
+		"languageapi.ui.title.select": "§eWähle eine Sprache aus",
+		"languageapi.ui.text.select": "§eSelect your Language§7!",
+		"languageapi.updated": "{PREFIX}§7Du hast deine Sprache auf §d{NEW}§7 aktualisiert§7!",
+		
+		"lobbysystem.selected.particle": "§aYou selected the§e {PARTICLE} §aparticles§7!",
+		"lobbysystem.servergui.maintenance": "{PREFIX}§7The Selected Server is curently in §cMaintenance Mode",
+
+		"lobbysystem.join.welcome": "{PREFIX}§7Willkommen zurück §f{NAME} §d§lAction",
+		"lobbysystem.serversettings.response": "{PREFIX}&7You changed the Settings §d{SETTINGS}",
+		"lobbysystem.settings.ui.win10.changed": "{PREFIX}§7Deine UIs werden nun als §dWin10 §fForms §7angezeigt",
+		"lobbysystem.settings.ui.mobile.changed": "{PREFIX}§7Deine UIs werden nun als §bMobile §fForms §7angezeigt",
+		"lobbysystem.navigator.disabled": "§cInaktiv",
+		"lobbysystem.navigator.enabled": "§aAktiv",
+		"lobbysystem.navigator.online.maintenance": "§7Server ist §aOnline§7 aber im §cWartungs §7Modus§7.!",
+		"lobbysystem.navigator.offline": "{PREFIX}§7Server ist §cOffline",
+		"lobbysystem.navigator.online": "{PREFIX}§7Server ist §aOnline§7!.",
+
+		"lobbysystem.settings.uimain.title": "§d§lSettings§r §8| §b§lMain",
+		"lobbysystem.settings.uimain.content": "§fManage your Player Account",
+		"lobbysystem.settings.uimain.navibtn": "§c§lTeleporter§r §8| §f§lSettings",
+		"lobbysystem.settings.uimain.langbtn": "§b§lLanguage §r§8| §f§lSettings",
+
+		"lobbysystem.settings.uimain.navigator": "§c§lNavigator§r §8| §f§lSettings",
+		"lobbysystem.settings.uimain.language": "",
+
+		"lobbysystem.welcome.line1": "§7Willkommen §e{PLAYER}",
+
+		"lobbysystem.settings.uinavi.content": "",
+
+		"lobbysystem.dsgvoui.title": "{PREFIX}§aData Protection",
+		"lobbysystem.dsgvoui.content": "§r\n§7Click §aAccept§7 ok?",
+		"lobbysystem.dsgvoui.acceptbtn": "§aAccept",
+		"lobbysystem.dsgvoui.declinebtn": "§cDecline\n§7if you click this you get kicked",
+
+		"lobbysystem.dsgvoui.accepted": "{PREFIX}§7Well§8, §7your Account has been registered to the Database",
+		"lobbysystem.dsgvoui.kick": "§8\n{PREFIX}§cPlease Click on §aAccept§r!\n§5",
+
+		"lobbysystem.items.compass.name": "§c§lNavigator",
+		"lobbysystem.items.clock.name": "§d§lLobby Gadgets",
+		"lobbysystem.items.amethyst_shard.name": "§b§lEinstellungen",
+		
+
+		"lobbysystem.maintenance.staffonline": "{PREFIX}§cServer is now only for the Staff online",
+		"lobbysystem.maintenance.online": "{PREFIX}§7Server is now Online for all players",
+
+		"skyblock.home.set": "{PREFIX}§7Du hast dein §bZuhause §7namens §d{HOME} §7gesetzt",
+		"skyblock.taskbar.notify": "{PREFIX}§7Name§8: §e{NAME} §8- §7Geld§8: §e{MONEY} §8- §7Position§8: §e{POS} §8- §7Welt§8: §e{WORLD}",
+		"skyblock.helpui.title": "{PREFIX}§fHilfe UI",
+		"skyblock.helpui.desc": "\n§cKommt sehr Bald",
+		"skyblock.helpui.btn.ok": "§aOkay",
+		"skyblock.spawnholo.title": "§l§aWillkommen auf dem Server!",
+		"skyblock.spawnholo.desc": "§7Viel Spaß §e{PLAYER}\n§a{TIME}",
+		"skyblock.ping.ms": "{PREFIX}§7Dein Ping ist §d{PING}§bms§8...",
+		"skyblock.set.day": "{PREFIX}§7Du hast die §bZeit §7auf §dTag §7gestellt"
+	}
+}
